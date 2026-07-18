@@ -36,7 +36,6 @@ The project builds a **custom 4-criteria scoring model** that classifies every s
 | 4 | Texas, Ohio, PA are FIX not CUT — losses are discount-driven, not structural | 🟡 High |
 | 5 | Technology is the star category — Copiers at 37%, Phones above average | 🟢 Growth |
 | 6 | California and New York score +5 (maximum) on the scoring model | 🟢 Growth |
-| 7 | Revenue grew 51% (2014→2017) but profit margin stayed flat at 12.5% | 🟡 Strategic |
 
 ### 💸 Headline Number
 > **$125,006.78** in profit lost to excessive discounting (40%+ discount band)
